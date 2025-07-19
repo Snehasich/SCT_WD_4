@@ -6,13 +6,13 @@ A simple and elegant **To-Do List** web application that allows users to add, up
 
 ### 🚀 Features
 
-- ✅ Add new tasks with title and date/time  
-- 📅 Schedule tasks using native datetime-local input  
-- ✏️ Edit task title and scheduled time  
-- 🗑️ Delete tasks easily  
-- ✔️ Mark tasks as completed (toggle done/undone)  
-- 🎨 Clean, responsive UI with modern design  
-- 📱 Fully responsive and mobile-friendly  
+- ✅ Add new tasks with a title and scheduled date/time
+- 📅 Schedule tasks using a `datetime-local` input
+- ✏️ Edit task title and reschedule the task
+- 🗑️ Delete tasks with one click
+- ✔️ Mark tasks as completed (toggle completed state)
+- 🎨 Clean and responsive UI
+- 📱 Mobile-friendly design
 
 ---
 
@@ -21,25 +21,36 @@ A simple and elegant **To-Do List** web application that allows users to add, up
 - HTML5  
 - CSS3  
 - JavaScript (Vanilla)  
-- Bootstrap Icons  
+- Bootstrap Icons (optional, for styling buttons/icons if added later)
 
 ---
 
 ### 📸 Screenshot
 
-![Screenshot](Screenshot-2025-07-14-at-7-14-34-PM.png)
+![Screenshot](/to-do-list.png)
 
 ---
 
 ### 🌐 Live Demo
 
 👉 [View Live Demo](#)  
-*(Add your live demo URL here)*
+*(Replace `#` with your deployed link, e.g., GitHub Pages)*
 
 ---
 
 ### 🧾 How to Use
 
-1. Clone or download the repository:  
+1. Clone the repository
    ```bash
    git clone https://github.com/yourusername/todo-app.git
+
+2. Navigate to the folder
+
+   ```bash
+   cd todo-app
+
+3. Open the app
+
+   Open index.html in any web browser.
+
+4. Start adding tasks
