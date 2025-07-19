@@ -20,9 +20,8 @@ A simple and elegant **To-Do List** web application that allows users to add, up
 
 - HTML5  
 - CSS3  
-- JavaScript (Vanilla)  
-- Bootstrap Icons (optional, for styling buttons/icons if added later)
-
+- JavaScript (Vanilla)
+  
 ---
 
 ### 📸 Screenshot
@@ -33,8 +32,7 @@ A simple and elegant **To-Do List** web application that allows users to add, up
 
 ### 🌐 Live Demo
 
-👉 [View Live Demo](#)  
-*(Replace `#` with your deployed link, e.g., GitHub Pages)*
+👉 [View Live Demo](https://snehasich.github.io/SCT_WD_4/)  
 
 ---
 
